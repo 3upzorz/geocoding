@@ -1,0 +1,22 @@
+{
+  "name": "geocoding",
+  "main": "./lib/geocoding.js",
+  "description": "geocoding =========",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3upzorz/geocoding.git"
+  },
+  "author": "Trevor Hall <trevhall55@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3upzorz/geocoding/issues"
+  },
+  "homepage": "https://github.com/3upzorz/geocoding",
+  "dependencies": {
+    "xml2js": "^0.4.4"
+  }
+}
